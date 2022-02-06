@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Personal Website'
+project = 'Chad Hunter'
 copyright = '2022, Chad Hunter'
 author = 'Chad Hunter'
 
