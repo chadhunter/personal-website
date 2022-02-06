@@ -6,3 +6,4 @@ pip:
 reqs:
 	pip-compile requirements.in
 	pip-sync requirements.txt
+	cp requirements.txt docs/
