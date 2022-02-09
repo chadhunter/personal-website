@@ -1,6 +1,8 @@
 Professional Journey
 ====================
 
+.. TODO: Add graphical summary / flow-chart of univ/company? Too much?
+
 Chad is currently the Director of ESG Modeling at `Aspiration <https://aspiration.com>`_
 where he leads the development and implementation of the ESG methodologies for
 Aspiration's ecosystem of consumer and business impact services.
