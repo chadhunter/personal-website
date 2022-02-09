@@ -1,3 +1,5 @@
+.. _work:
+
 Work Highlights
 ===============
 
