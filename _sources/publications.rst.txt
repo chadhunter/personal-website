@@ -21,8 +21,6 @@ Publications
 
 #. **Hunter, Chad**. “Market Segmentation Analysis of Medium and Heavy Duty Trucks with a Fuel Cell Emphasis.” National Renewable Energy Laboratory, Golden, CO, June 14, 2018, 23.
 
-#. **Hunter, Chad**. “H2IQ Hour: Market Segmentation of Medium- and Heavy-Duty Vehicles.” Energy.gov, September 29, 2021. https://www.energy.gov/eere/fuelcells/h2iq-hour-market-segmentation-medium-and-heavy-duty-vehicles.
-
 #. **Hunter, Chad A.**, Michael M. Penev, Evan P. Reznicek, Joshua Eichman, Neha Rustagi, and Samuel F. Baldwin. “Techno-Economic Analysis of Long-Duration Energy Storage and Flexible Power Generation Technologies to Support High-Variable Renewable Energy Grids.” Joule 5, no. 8 (August 18, 2021): 2077–2101. https://doi.org/10.1016/j.joule.2021.06.018.
 
 #. **Hunter, Chad**, Brian Bush, Elizabeth Connelly, and Michael Penev. “Hydrogen Supply Chain Dynamics Using the Scenario Evaluation and Regionalization Analysis (SERA) Model: An Application to Light-Duty Vehicles.” Technical. Golden, Colorado: National Renewable Energy Laboratory, 2021.
