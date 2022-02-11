@@ -1,7 +1,13 @@
 Chad Hunter
 ===========
 
-.. TODO: Add profile pic
+.. image:: _static/profile-picture.jpg
+    :width: 267px
+    :align: center
+    :height: 400px
+    :alt: Chad Hunter
+
+|
 
 Chad is currently the Director of ESG Modeling at `Aspiration <https://aspiration.com>`_
 where he leads the development and implementation of the ESG methodologies for

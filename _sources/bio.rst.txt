@@ -33,13 +33,19 @@ the Bird scooters relative to other modes of transport. His work helped guide Bi
 incorporating sustainability data into their product development and operations
 (`project summary <http://edfclimatecorps.org/engagement/bird-chad-hunter-2019>`_).
 
-Chad was also an operations analyst and process engineer at ExxonMobil where he
-identified and led initiatives at refineries to improve energy efficiency of the
-hydroprocessing reactors and reduce energy consumption by ~$1.3M/year.
+Before NREL, Chad had various roles in R&D, Operations, and Project Management and
+Implementation at ExxonMobil. He used data analytics to drive process optimization and
+implemented lean manufacturing initiatives to increase operational productivity and
+sustainability. He identified and led initiatives at refineries to improve
+energy efficiency of multiple process units and reduce energy consumption by ~$1.3M/year.
 
 Chad also worked at BP and Novartis through `MIT’s Master’s in Chemical Engineering
-Practice <https://cheme.mit.edu/academics/practice-school/>`_ program and
-received his MBA from the University of Colorado at Boulder in 2019.
-Chad is also an active mentor as a University of Rochester Real Reader and part of the
-MIT Alumni Association, in addition to serving on the University of Rochester's
-chemical engineering department Advisory Board.
+Practice <https://cheme.mit.edu/academics/practice-school/>`_ program and worked at
+General Motors in their Fuel Cell Research Division where he researched oxygen reduction
+reaction kinetics in hydrogen fuel cells.
+
+Chad received his MBA from the University of Colorado at Boulder in 2019, his Masters
+in Chemical Engineering Practice from MIT, and B.S. in Chemical Engineering from the
+University of Rochester. Chad is also an active mentor as a University of Rochester
+Real Reader and part of the MIT Alumni Association, in addition to serving on the
+University of Rochester's chemical engineering department Advisory Board.
