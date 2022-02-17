@@ -22,7 +22,7 @@ Contents
 .. toctree::
     bio
     press
-    portfolio
+    work-highlights
     publications
 
 

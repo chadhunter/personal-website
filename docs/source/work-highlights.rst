@@ -1,7 +1,5 @@
 .. _work:
 
-.. TODO: rename this file (and others) so URL looks right
-
 Work Highlights
 ===============
 
@@ -41,8 +39,8 @@ Graphical abstract from the long-duration energy storage techno-economic analysi
 
 Electrified Heavy-Duty Vehicle Powertrain Total Cost of Ownership Analysis
 **************************************************************************
-This report compares six truck powertrain technologies to quantify their total cost of
-ownership (TCO) and identify operating scenarios where each technology may have an economic
+This breakthrough report compares six truck powertrain technologies to quantify their total cost of
+ownership (TCO) and identifies operating scenarios where each technology may have an economic
 advantage. The powertrains analyzed include conventional diesel, diesel hybrid electric,
 plug-in hybrid electric, compressed natural gas, fuel cell electric, and battery all-electric.
 
