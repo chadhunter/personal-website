@@ -44,8 +44,9 @@ Practice <https://cheme.mit.edu/academics/practice-school/>`_ program and worked
 General Motors in their Fuel Cell Research Division where he researched oxygen reduction
 reaction kinetics in hydrogen fuel cells.
 
-Chad received his MBA from the University of Colorado at Boulder in 2019, his Masters
-in Chemical Engineering Practice from MIT, and B.S. in Chemical Engineering from the
-University of Rochester. Chad is also an active mentor as a University of Rochester
+Chad received his MBA from the `University of Colorado at Boulder <https://www.colorado.edu/business/mba>`_
+in 2019, his Masters in Chemical Engineering Practice from MIT, and B.S. in Chemical
+Engineering from the `University of Rochester <https://rochester.edu/>`_.
+Chad is also an active mentor as a University of Rochester
 Real Reader and part of the MIT Alumni Association, in addition to serving on the
 University of Rochester's chemical engineering department Advisory Board.
