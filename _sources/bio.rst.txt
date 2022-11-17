@@ -3,8 +3,8 @@ Professional Journey
 
 .. TODO: Add graphical summary / flow-chart of univ/company? Too much?
 
-Chad is currently the Director of ESG Modeling at `Aspiration <https://aspiration.com>`_
-where he leads the development and implementation of the ESG methodologies for
+Chad is currently the Senior Director of Carbon Products & Innovation at `Aspiration <https://aspiration.com>`_
+where he leads the  strategy and development of carbon products for
 Aspiration's ecosystem of consumer and business impact services.
 
 Before Aspiration, Chad was the CEO & Co-founder of
@@ -45,8 +45,8 @@ General Motors in their Fuel Cell Research Division where he researched oxygen r
 reaction kinetics in hydrogen fuel cells.
 
 Chad received his MBA from the `University of Colorado at Boulder <https://www.colorado.edu/business/mba>`_
-in 2019, his Masters in Chemical Engineering Practice from MIT, and B.S. in Chemical
-Engineering from the `University of Rochester <https://rochester.edu/>`_.
+in 2019, his Masters in `Chemical Engineering Practice from MIT <https://cheme.mit.edu/academics/practice-school/>`_,
+and B.S. in Chemical Engineering from the `University of Rochester <https://rochester.edu/>`_.
 Chad is also an active mentor as a University of Rochester
 Real Reader and part of the MIT Alumni Association, in addition to serving on the
 University of Rochester's chemical engineering department Advisory Board.
