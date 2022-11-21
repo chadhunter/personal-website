@@ -15,6 +15,8 @@ Publications
 
 #. Connelly, Elizabeth, Michael Penev, Amgad Elgowainy, and **Chad Hunter**. “Current Status of Hydrogen Liquefaction Costs.” DOE Hydrogen and Fuel Cells Program Record. U.S. Department of Energy, September 9, 2019. https://www.hydrogen.energy.gov/pdfs/19001_hydrogen_liquefaction_costs.pdf.
 
+#. Gilleon, Spencer, Michael Penev, and **Chad Hunter**. “Powertrain Performance and Total Cost of Ownership Analysis for Class 8 Yard Tractors and Refuse Trucks.” National Renewable Energy Lab (NREL), 2022. https://www.nrel.gov/docs/fy23osti/83968.pdf.
+
 #. Gilleran, Madeline, Eric Bonnema, Jason Woods, Partha Mishra, Ian Doebber, **Chad Hunter**, Matt Mitchell, and Margaret Mann. “Impact of Electric Vehicle Charging on the Power Demand of Retail Buildings.” Advances in Applied Energy 4 (November 19, 2021): 100062. https://doi.org/10.1016/j.adapen.2021.100062.
 
 #. **Hunter, Chad**. “Comments on Staff Workshop on Hydrogen Refueling Infrastructure Alternative Funding Mechanisms,” 2017. https://efiling.energy.ca.gov/GetDocument.aspx?tn=222043&DocumentContentId=28158.
