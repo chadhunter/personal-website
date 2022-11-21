@@ -1,8 +1,6 @@
 Professional Journey
 ====================
 
-.. TODO: Add graphical summary / flow-chart of univ/company? Too much?
-
 Chad is currently the Senior Director of Carbon Products & Innovation at `Aspiration <https://aspiration.com>`_
 where he leads the  strategy and development of carbon products for
 Aspiration's ecosystem of consumer and business impact services.
